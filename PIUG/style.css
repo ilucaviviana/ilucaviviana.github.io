@@ -1,0 +1,13 @@
+
+ .center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+  .center_p{
+
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    padding: 10px;
+  }
